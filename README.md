@@ -7,27 +7,27 @@ We are looking over Amazon Reviews for Toys.  We are using tools such as AWS, Go
 ## Results
 - Number of Vine Reviews:
 
-INSERT vine image
+![vine](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/vine.png)
 
 - Number of non-Vine Reviews:
 
-INSERT non vine image
+![non vine](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/non_vine.png)
 
 - Number of Vine reviews with 5-star ratings:
 
-INSERT vine 5 star image
+![vine 5 star](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/vine_5_star.png)
 
 - Number of non-Vine reviews with 5-star ratings:
 
-INSERT non-vine 5 star image
+![non vine 5 star](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/non_vine_5_star.png)
 
 - Percentage of Vine reviews that were 5-star:
 
-INSERT percent vine image
+![percent vine](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/percent_vine.png)
 
 - Percentage of non-Vine reviews that were 5-star:
 
-INSERT percent non-vine image
+![percent non vine](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/percent_non_vine.png)
 
 
 ## Summary
@@ -37,12 +37,12 @@ Within the vine program, 34% of reviews were 5-star rated.  Within the non-vine 
 
 - One additional analysis:
 
-INSERT total image
-INSERT percent_5_star image
+![total](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/total.png)
+![percent 5 star](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/percent_5_star.png)
 
 
 Overall there were 63,294 total reviews and 30,414 5-star Reviews.  The percentage shows that 48% of total reviews were 5-star.  This is the same as the percent of non-vine reviews (also 48%)
 
-INSERT vine total percent image
+![vine_total_percent](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/vine_total_percent.png)
 
 We can see that Vine reviews have very little impact on the total reviews, at only 2% of the total reviews in general.
