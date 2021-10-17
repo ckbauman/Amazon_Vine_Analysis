@@ -35,14 +35,14 @@ We are looking over Amazon Reviews for Toys.  We are using tools such as AWS, Go
 
 Within the vine program, 34% of reviews were 5-star rated.  Within the non-vine program, 48% or reviews were 5-star rated.  You could say that the vine program does not have biased positive reviews because it's percentage is actually lower then the non-vine program.
 
-- One additional analysis:
+- Additional analysis shows that overall there were 63,294 total reviews and 30,414 5-star Reviews.  The percentage shows that 48% of total reviews were 5-star.  This is the same as the percent of non-vine reviews (also 48%)
 
 ![total](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/total.png)
 ![percent 5 star](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/percent_5_star.png)
 
 
-Overall there were 63,294 total reviews and 30,414 5-star Reviews.  The percentage shows that 48% of total reviews were 5-star.  This is the same as the percent of non-vine reviews (also 48%)
+We can see that Vine reviews have very little impact on the total reviews, at only 2% of the total reviews in general.
 
 ![vine_total_percent](https://github.com/ckbauman/Amazon_Vine_Analysis/blob/main/images/vine_total_percent.png)
 
-We can see that Vine reviews have very little impact on the total reviews, at only 2% of the total reviews in general.
+
