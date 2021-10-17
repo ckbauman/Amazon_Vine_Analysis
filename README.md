@@ -41,7 +41,7 @@ INSERT total image
 INSERT percent_5_star image
 
 
-Overall there were 63,294 total reviews and 30,414 5-star Reviews.  The percentage shows that 48% of total reviews were 5-star.  This is the same as the perent of non-vine reviews (also 48%)
+Overall there were 63,294 total reviews and 30,414 5-star Reviews.  The percentage shows that 48% of total reviews were 5-star.  This is the same as the percent of non-vine reviews (also 48%)
 
 INSERT vine total percent image
 
